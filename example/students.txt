@@ -1,0 +1,8 @@
+7
+Surname1;Name1; 1; 7,5;
+Surname2;Name2; 2; 9,5;
+Surname3;Name3; 2; 8,5;
+Surname4;Name4; 3; 5,5;
+Surname5;Name5; 4; 8,5;
+Surname6;Name6; 4; 7,5;
+Surname7;Name7; 1; 6,0;
