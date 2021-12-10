@@ -1,0 +1,69 @@
+ Initial data
+
+Number of students: 7
+Number of days: 5
+Bachelor students (online time = 0)
+
+----------------------------------------------
+No. Name     Surname  Course Online time (min.) 
+----------------------------------------------
+ 1. Name1    Surname1    1         0.00 
+ 2. Name2    Surname2    2         0.00 
+ 3. Name3    Surname3    2         0.00 
+ 4. Name4    Surname4    3         0.00 
+ 5. Name5    Surname5    4         0.00 
+ 6. Name6    Surname6    4         0.00 
+ 7. Name7    Surname7    1         0.00 
+----------------------------------------------
+
+Students time spent online in 5 days.
+
+   1. 120 100  90  60  50 
+   2. 100 200 150 200  10 
+   3.  80  90  80  90  80 
+   4. 120  80  60 140  70 
+   5.  60  60  60  60  60 
+   6.   0   0   0   0   0 
+   7.   0  50  60 120  40 
+
+ Results
+ Bachelor students (updated time != 0)
+
+----------------------------------------------
+No. Name     Surname  Course Online time (min.) 
+----------------------------------------------
+ 1. Name1    Surname1    1       420.00 
+ 2. Name2    Surname2    2       660.00 
+ 3. Name3    Surname3    2       420.00 
+ 4. Name4    Surname4    3       470.00 
+ 5. Name5    Surname5    4       300.00 
+ 6. Name6    Surname6    4         0.00 
+ 7. Name7    Surname7    1       270.00 
+----------------------------------------------
+
+ Bachelor students (sorted by course and online time)
+
+----------------------------------------------
+No. Name     Surname  Course Online time (min.) 
+----------------------------------------------
+ 1. Name7    Surname7    1       270.00 
+ 2. Name1    Surname1    1       420.00 
+ 3. Name3    Surname3    2       420.00 
+ 4. Name2    Surname2    2       660.00 
+ 5. Name4    Surname4    3       470.00 
+ 6. Name6    Surname6    4         0.00 
+ 7. Name5    Surname5    4       300.00 
+----------------------------------------------
+
+Student time spent online (sorted) in 5 days.
+
+   1.   0  50  60 120  40 
+   2. 120 100  90  60  50 
+   3.  80  90  80  90  80 
+   4. 100 200 150 200  10 
+   5. 120  80  60 140  70 
+   6.   0   0   0   0   0 
+   7.  60  60  60  60  60 
+
+1 course students spent 345.00 minutes online on average.
+1 course students did not spend any time online
